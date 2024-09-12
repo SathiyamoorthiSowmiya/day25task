@@ -11,3 +11,6 @@ Delete a Task: Users can delete a task from the list.
 Filter Tasks: Users can filter tasks by their status, showing either "All", "Completed", or "Not Completed" tasks.
 
 Live Demo ==>> https://to-do-ta-sk.netlify.app/
+
+
+
